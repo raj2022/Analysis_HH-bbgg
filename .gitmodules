@@ -1,0 +1,3 @@
+[submodule "HiggsDNA"]
+	path = HiggsDNA
+	url = https://gitlab.cern.ch/hhbbgg/HiggsDNA.git
