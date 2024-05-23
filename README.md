@@ -1,4 +1,4 @@
-##  HH $\longrightarrow X \longrightarrow YH \longrightarrow bb̄\gamma\gamma All of the selectio cuts can be find in this previous anlysis note
+##  HH $\longrightarrow X \longrightarrow YH \longrightarrow bb̄\gamma\gamma$
 ---
 
 The studies related to the searches for beyond the Standard
