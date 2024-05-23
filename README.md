@@ -1,3 +1,4 @@
-## Particle Interaction Sequence: HH → X → YH → b$\bar{b}\gamma\gamma$
+## `HH $\longrightarrow b\Bar{b}\gamma\gamma$`
+
 
 Anlysis based on Run3 PostEE data. 
