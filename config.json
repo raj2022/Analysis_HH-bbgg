@@ -1,0 +1,10 @@
+{
+  "data_file_paths": ["../output_root/Data_EraE.root", "../output_root/Data_EraF.root", "../output_root/Data_EraG.root"],
+  "background_files": [
+    {"file_path": "../output_root/GGJets.root", "name": "#gamma#gamma+jets"},
+    {"file_path": "../output_root/GJetPt20To40.root", "name": "#gamma+jets with 20 < P_{T} < 40"},
+    {"file_path": "../output_root/GJetPt40.root", "name": "#gamma+jets with P_{T} > 40"}
+  ],
+  "tree_name": "DiphotonTree/data_125_13TeV_NOTAG"
+}
+
