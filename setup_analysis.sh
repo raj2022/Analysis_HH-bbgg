@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 # Setup for the analysis
 
 echo "Make sure you are working in bash"
