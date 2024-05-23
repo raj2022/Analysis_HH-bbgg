@@ -1,4 +1,4 @@
-## `HH $\longrightarrow b\Bar{b}\gamma\gamma$`
+## ` HH −→ b ̄bγγ`
 
 
 Anlysis based on Run3 PostEE data. 
