@@ -13,5 +13,5 @@ The github repo is https://gitlab.cern.ch/hhbbgg/HiggsDNA and a updated and main
 All of the setup for the analysis can be done using `source setup_analysis.sh`
 
 All the files are present in the form of .parquet files which can be converted as given [here](https://higgs-dna.readthedocs.io/en/latest/output_grooming.html)
-```python3 scripts/postprocessing/convert_parquet_to_root.py ../Run3_2022postEE_merged/GGJets.parquet ../output_root/GGJets.root mc 
-```
+`python3 scripts/postprocessing/convert_parquet_to_root.py ../Run3_2022postEE_merged/GGJets.parquet ../output_root/GGJets.root mc 
+`
