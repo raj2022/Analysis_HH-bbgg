@@ -1,3 +1,6 @@
 [submodule "HiggsDNA"]
 	path = HiggsDNA
 	url = https://gitlab.cern.ch/hhbbgg/HiggsDNA.git
+[submodule "hhbbgg_AwkwardAnalyzer"]
+	path = hhbbgg_AwkwardAnalyzer
+	url = https://github.com/tiwariPC/hhbbgg_AwkwardAnalyzer.git
